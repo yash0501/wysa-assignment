@@ -1,0 +1,33 @@
+{
+  "request": {
+    "body": {
+      "wakeTime": 1698894000,
+      "userId": "6542a780c1a5965e9769b573",
+      "dataCollectionStage": 2
+    }
+  },
+  "response": {
+    "status": {
+      "code": 200,
+      "message": "OK"
+    },
+
+    "data": {
+      "status": "success",
+      "data": {
+        "sleepStruggle": {
+          "min": 0,
+          "max": 2
+        },
+        "_id": "6542a8dcd984ad7bedd397ee",
+        "userId": "6542a780c1a5965e9769b573",
+        "dataCollectionStage": 1,
+        "deletedAt": null,
+        "createdAt": "2023-11-01T19:37:00.120Z",
+        "updatedAt": "2023-11-01T19:49:25.006Z",
+        "sleepTime": "2023-11-01T18:00:00.000Z"
+      },
+      "message": "Sleep time updated successfully"
+    }
+  }
+}

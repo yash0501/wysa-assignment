@@ -1,0 +1,26 @@
+{
+  "request": {
+    "body": {
+      "userName": "yash0501",
+      "password": "12345678"
+    }
+  },
+  "response": {
+    "status": {
+      "code": 200,
+      "message": "OK"
+    },
+    "data": {
+      "status": "success",
+      "data": {
+        "userName": "abcd",
+        "password": "$2b$10$838tpX6gmmqR0V7DMsZ8lu8tl8AJswcLtTehf0.wgfvYz8bvpwIDW",
+        "deletedAt": null,
+        "_id": "6542a780c1a5965e9769b573",
+        "createdAt": "2023-11-01T19:31:12.474Z",
+        "updatedAt": "2023-11-01T19:31:12.474Z"
+      },
+      "message": "User registered successfully"
+    }
+  }
+}
